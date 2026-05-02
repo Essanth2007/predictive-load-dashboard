@@ -4,3 +4,4 @@ psutil
 joblib
 scikit-learn
 pandas
+gunicorn
