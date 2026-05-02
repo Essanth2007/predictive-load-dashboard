@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+flask.log
+sys.log
+train_model.py
+.git/
